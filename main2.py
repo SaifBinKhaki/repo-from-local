@@ -5,7 +5,7 @@ def sum():
     return total
 
 
-print("The sum of numbers from 1 to 10 is:", sum())
+print("The sum of numbers from chatgpt from 1 to 10 is:", sum())
 
 if __name__ == "__main__":
     user_name = input("Enter your name: ")
